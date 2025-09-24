@@ -69,8 +69,15 @@ Organization: Ziraxa – ziraxa-ai on GitHub
 
 Maintainer: Taha Saadat – MRTahasaadat on GitHub
 
+### email
+
+                ziraxa.ai@gmail.com
+
+                mrtahasaadat@gmail.com
+
 ### تماس با ما
 
 سازمان: زیرکسا – ziraxa-ai در گیت‌هاب
 
 مسئول پروژه: طاها سعادت – MRTahasaadat در گیت‌هاب
+
