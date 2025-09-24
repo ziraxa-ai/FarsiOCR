@@ -71,9 +71,9 @@ Maintainer: Taha Saadat – MRTahasaadat on GitHub
 
 ### email
 
-                ziraxa.ai@gmail.com
+ziraxa.ai@gmail.com
 
-                mrtahasaadat@gmail.com
+mrtahasaadat@gmail.com
 
 ### تماس با ما
 
