@@ -31,4 +31,10 @@ def metrics(y_true, y_pred):
     f1u = f1_score(y_true, y_pred, average='micro')
     cm  = confusion_matrix(y_true, y_pred, labels=list(range(len(labels_))))
     rep = classification_report(y_true, y_pred, target_names=labels_, digits=4)
-    return acc, f1m, f1u, rep
+    return {
+        "acc": acc,
+        "f1_macro": f1m,
+        "f1_micro": f1u,
+        "cm": cm,
+        "report": rep
+    }
