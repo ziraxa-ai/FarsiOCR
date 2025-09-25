@@ -1,0 +1,6 @@
+numpy
+pandas
+pillow
+fonttools
+tqdm
+opencv-python
