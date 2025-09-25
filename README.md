@@ -77,7 +77,7 @@ mrtahasaadat@gmail.com
 
 ### تماس با ما
 
-سازمان: زیرکسا – ziraxa-ai در گیت‌هاب
+ – ziraxa-ai 
 
-مسئول پروژه: طاها سعادت – MRTahasaadat در گیت‌هاب
+ – MRTahasaadat
 
